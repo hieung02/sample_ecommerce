@@ -6,7 +6,7 @@ import ProductPage from './components/ProductPage';
 import Checkout from './components/Checkout';
 import Category from './components/Category';
 
-// routes - add more path if needed
+// routes - add more paths if needed
 const routes = (
     <Route path='/' component={Layout}>
         <IndexRoute component={Home}/>

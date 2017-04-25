@@ -12,14 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hieung02/sample_ecommerce.git"
-  },
   "author": "Hieu Nguyen",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hieung02/sample_ecommerce/issues"
-  },
-  "homepage": "https://github.com/hieung02/sample_ecommerce#readme"
+  "license": "MIT"
 }
